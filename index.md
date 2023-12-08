@@ -4,11 +4,9 @@
 [![ Téléphone](assets/phone-solid.svg)](tel:+33749373412) |
 [![Github](assets/github.svg)](https://github.com/wazolab)</span>
 
-Développeur "touche à tout" avec une expertise Javascript et de bonnes connaissances en Architecture Logicielle.
+Attiré par le fonctionnement des coopératives de développeurs et plus généralement par l'auto-gouvernance, je souhaiterai mettre à profit mes compétences techniques au service du Commun et du Libre.
 
-Souhaites mettre à profit ses compétences techniques au service du Commun et du Libre.
-
-Attiré par le fonctionnement des coopératives de développeurs et plus généralement par l'auto-gouvernance.
+Développeur Fullstack avec une expertise Javascript et de bonnes connaissances en Architecture Logicielle.
 
 ## Experience
 ### Decathlon Outdoor | <location>Grenoble, France</location> <time>Avr 2022 - Mai 2023</time>
@@ -26,8 +24,8 @@ Attiré par le fonctionnement des coopératives de développeurs et plus génér
 _Technos:_ Nuxt 3 / Typescript / Strapi CMS / Lerna / Husky / PNPM / Vite / Amplitude Analytics / Plop JS / Vitest
 
 ### Decathlon Outdoor | <location>Grenoble, France</location> <time>Jan 2021 - Mai 2022</time>
-**Lead Frontend Developer**
-- Travailler dans une équipe Agile fonctionnant en Scrum (2 semaines) puis Kanban.
+**Frontend Developer**
+- Travailler dans une équipe Agile fonctionnant en Scrum puis Kanban.
 - Participer et animer des rituels Agiles (Stand-up / Retrospectives)
 - Améliorer les performances SEO (10k / 35K pages indéexées, 10k->800k acquisition)
 - Améliorer l'accessibilité après un audit
@@ -63,6 +61,10 @@ _Technos:_ Wordpress / Advanced Custom Fields / PHP / Docker / HTML5 / CSS3 / SA
 
 ### Université Claude Bernard | <location>Lyon, France</location> <time>2013 - 2015</time>
 **Bac +2, Informatique & Science de l'Information**
+
+## Projets personnels
+- Cloud personnel avec RClone et Backblaze
+- Auto-hébergement de mes données personnelles avec Cloudron et Nextcloud
 
 ## Bénévolat
 - [Reinventing Organizations Wiki](https://reinventingorganizationswiki.com/en/): Corriger des bugs et proposer un plan d'évolution du site
