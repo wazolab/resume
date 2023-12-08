@@ -11,8 +11,26 @@ location {
     font-style: italic;
 }
 
+#main-location {
+    float: right;
+    font-size: initial;
+}
+
 time {
     float: right;
     font-size: inherit;
     font-weight: bold;
+}
+
+.info {
+    display: block;
+    text-align: center;
+}
+
+.info a {
+    vertical-align: middle;
+}
+
+.info a img {
+    width: 16px;
 }
