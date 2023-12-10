@@ -63,8 +63,8 @@ _Technos:_ Wordpress / Advanced Custom Fields / PHP / Docker / HTML5 / CSS3 / SA
 **Bac +2, Informatique & Science de l'Information**
 
 ## Projets personnels
-- Cloud personnel avec RClone et Backblaze
-- Auto-hébergement de mes données personnelles avec Cloudron et Nextcloud
+- Cloud personnel avec [RClone](https://rclone.org/), [Syncthing](https://syncthing.net/) et [Backblaze](https://www.backblaze.com/)
+- Auto-hébergement de mes données personnelles avec [Cloudron](https://www.cloudron.io/) et [Nextcloud](https://nextcloud.com/)
 
 ## Bénévolat
 - [Reinventing Organizations Wiki](https://reinventingorganizationswiki.com/en/): Corriger des bugs et proposer un plan d'évolution du site
