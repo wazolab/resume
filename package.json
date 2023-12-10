@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Noé Viricel's resume",
+  "main": "index.md",
+  "scripts": {
+    "generate": "wkhtmltopdf https://resume.wazo-lab.io/ resume.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wazolab/resume.git"
+  },
+  "author": "Noé Viricel <noe.viricel@wazo-lab.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wazolab/resume/issues"
+  },
+  "homepage": "https://github.com/wazolab/resume#readme",
+  "devDependencies": {
+    "wkhtmltopdf": "^0.4.0"
+  }
+}
