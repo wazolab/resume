@@ -4,11 +4,13 @@
 [![ Téléphone](assets/phone-solid.svg)](tel:+33749373412) |
 [![Github](assets/github.svg)](https://github.com/wazolab)</span>
 
-Attiré par le fonctionnement des coopératives de développeurs et plus généralement par l'auto-gouvernance, je souhaiterai mettre à profit mes compétences techniques au service du Commun et du Libre.
-
-Développeur Fullstack avec une expertise Javascript et de bonnes connaissances en Architecture Logicielle.
-
 ## Experience
+### Teritorio | <location>Bordeaux, France (Full-Remote)</location> <time>Jan 2024 - Présent</time>
+**Fullstack Developer**
+- Conception d'une web app de cartographie: [Cartoguide](https://www.teritorio.fr/solution/webapplication-cartoguide/)
+- Conception d'une plateforme web de contrôle de la données OpenStreetMap: [Clearance](https://www.teritorio.fr/solution/clearance/)
+
+_Technos:_ Nuxt 3 / Typescript / Docker / Vite / Cypress
 ### Decathlon Outdoor | <location>Grenoble, France</location> <time>Avr 2022 - Mai 2023</time>
 **Lead Frontend Developer**
 - Concervoir l'architecture v3 de [Decathlon Outdoor](https://decathlon-outdoor.com)
@@ -65,11 +67,11 @@ _Technos:_ Wordpress / Advanced Custom Fields / PHP / Docker / HTML5 / CSS3 / SA
 ## Projets personnels
 - Cloud personnel avec [RClone](https://rclone.org/), [Syncthing](https://syncthing.net/) et [Backblaze](https://www.backblaze.com/)
 - Auto-hébergement de mes données personnelles avec [Cloudron](https://www.cloudron.io/) et [Nextcloud](https://nextcloud.com/)
+- Libraire musicale auto-hébergée avec [Navidrome](https://www.navidrome.org/)
 
 ## Bénévolat
-- [Reinventing Organizations Wiki](https://reinventingorganizationswiki.com/en/): Corriger des bugs et proposer un plan d'évolution du site
-- [Hopi Family](https://www.facebook.com/Family.Hopi): Enlever un malware sur Wordpress ([Démarche suivie](https://wazolab.notion.site/WP-Malware-4d35f24af2fc4f8193688df47b71fd58))
-- [RobotCloud](https://github.com/robot-cloud): Créer des features + corriger des bugs
-- Réparer des objets électroniques
+- [LowTech Lab - Grenoble](https://wiki.lowtechlab.org/wiki/Group:Low-tech_Lab_Grenoble): Conception d'un site web low-tech (_en cours_)
+- RobotCloud: Gestionnaire de tâches embarqué sur RaspberryPi
+- Réparation d'objets électroniques
 
 <link rel="stylesheet" type="text/css" href="index.css">
