@@ -4,11 +4,11 @@
 [![ Téléphone](assets/phone-solid.svg)](tel:+33749373412) |
 [![Github](assets/github.svg)](https://github.com/wazolab)</span>
 
-## Experience
+## Expériences
 ### Teritorio | <location>Bordeaux, France (Full-Remote)</location> <time>Jan 2024 - Présent</time>
 **Fullstack Developer**
 - Conception d'une web app de cartographie: [Cartoguide](https://www.teritorio.fr/solution/webapplication-cartoguide/)
-- Conception d'une plateforme web de contrôle de la données OpenStreetMap: [Clearance](https://www.teritorio.fr/solution/clearance/)
+- Conception d'une plateforme web de contrôle de la donnée OpenStreetMap: [Clearance](https://www.teritorio.fr/solution/clearance/)
 
 _Technos:_ Nuxt 3 / Typescript / Docker / Vite / Cypress
 ### Decathlon Outdoor | <location>Grenoble, France</location> <time>Avr 2022 - Mai 2023</time>
